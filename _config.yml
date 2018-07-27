@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Antonino Troja / Titolo di prova"
+title                    : "Antonino Troja"
 title_separator          : "-"
 name                     : &name "Antonino Troja"
 description              : &description "My personal description"
